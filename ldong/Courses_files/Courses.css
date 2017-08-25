@@ -100,6 +100,9 @@
     font-weight: 300;
     line-height: 17px;
 }
+.style_External_810_1795 {
+    position: relative;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -133,9 +136,6 @@
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
-}
-.style_External_810_1772 {
-    position: relative;
 }
 .style_External_129_46 {
     position: relative;
@@ -198,7 +198,7 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_810_1772 {
+.graphic_textbox_layout_style_default_External_810_1795 {
     position: relative;
 }
 .graphic_textbox_layout_style_default {
