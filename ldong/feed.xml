@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:06CE0CB2-FE08-4AF9-9574-DDE0916DB2CA</id>
  <title>Page list Atom feed</title>
- <updated>2017-11-05T21:53:29-06:00</updated>
+ <updated>2018-01-11T00:10:27-06:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">6C3EFCC1-B53B-41F6-83C8-E1C6378CA935</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2017-11-05T21:53:29.001-06:00</updated>
+  <updated>2018-01-11T00:10:27.001-06:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">5FE8F917-798B-40B7-8CC0-CFB37706EA7F</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2017-11-05T21:53:29.002-06:00</updated>
+  <updated>2018-01-11T00:10:27.002-06:00</updated>
   <content>Publications</content>
  </entry>
  <entry>
@@ -32,17 +32,17 @@
   <title xmlns="urn:iweb:">Research</title>
   <in-navbar xmlns="urn:iweb:">49BF0525-13E2-44BE-A063-A9A8C39E368C</in-navbar>
   <link rel="alternate" href="Research.html"/>
-  <updated>2017-11-05T21:53:29.003-06:00</updated>
+  <updated>2018-01-11T00:10:27.003-06:00</updated>
   <content>Research</content>
  </entry>
  <entry>
   <id>urn:iweb:EDE53CEF-C649-4588-B61A-0505DF67CBB1</id>
-  <title>Machine learning</title>
-  <title xmlns="urn:iweb:">Machine learning</title>
+  <title>Machine learning :)</title>
+  <title xmlns="urn:iweb:">Machine learning :)</title>
   <in-navbar xmlns="urn:iweb:">EDE53CEF-C649-4588-B61A-0505DF67CBB1</in-navbar>
-  <link rel="alternate" href="Machine_learning.html"/>
-  <updated>2017-11-05T21:53:29.004-06:00</updated>
-  <content>Machine learning</content>
+  <link rel="alternate" href="Machine_learning__%29.html"/>
+  <updated>2018-01-11T00:10:27.004-06:00</updated>
+  <content>Machine learning :)</content>
  </entry>
  <entry>
   <id>urn:iweb:CC431A51-8A8F-4CCC-BAFB-81F1A27FA1B0</id>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Awards</title>
   <in-navbar xmlns="urn:iweb:">CC431A51-8A8F-4CCC-BAFB-81F1A27FA1B0</in-navbar>
   <link rel="alternate" href="Awards.html"/>
-  <updated>2017-11-05T21:53:29.005-06:00</updated>
+  <updated>2018-01-11T00:10:27.005-06:00</updated>
   <content>Awards</content>
  </entry>
  <entry>
@@ -59,7 +59,16 @@
   <title xmlns="urn:iweb:">Courses</title>
   <in-navbar xmlns="urn:iweb:">4A440824-F766-46EF-A4B4-0CC24593A61F</in-navbar>
   <link rel="alternate" href="Courses.html"/>
-  <updated>2017-11-05T21:53:29.006-06:00</updated>
+  <updated>2018-01-11T00:10:27.006-06:00</updated>
   <content>Courses</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6DD788B1-80FD-4C02-BA4B-49FDB8B740EB</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">6DD788B1-80FD-4C02-BA4B-49FDB8B740EB</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2018-01-11T00:10:27.007-06:00</updated>
+  <content>Teaching</content>
  </entry>
 </feed>
