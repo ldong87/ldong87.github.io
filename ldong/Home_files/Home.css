@@ -126,9 +126,6 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_810_1292 {
-    position: relative;
-}
 .paragraph_style_5 {
     color: rgb(214, 214, 214);
     font-family: 'Helvetica-Light', 'Helvetica';
@@ -210,6 +207,9 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_External_810_1260 {
+    position: relative;
+}
 .Body {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -271,7 +271,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_810_1292 {
+.graphic_textbox_layout_style_default_External_810_1260 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
