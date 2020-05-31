@@ -92,6 +92,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_810_1804 {
+    position: relative;
+}
 .style_2 {
     color: rgb(255, 255, 255);
     font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
@@ -132,9 +135,6 @@
     font-style: italic;
     font-weight: 200;
     line-height: 20px;
-}
-.style_External_810_1717 {
-    position: relative;
 }
 .paragraph_style_4 {
     color: rgb(214, 214, 214);
@@ -352,7 +352,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_810_1717 {
+.graphic_textbox_layout_style_default_External_810_1804 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
