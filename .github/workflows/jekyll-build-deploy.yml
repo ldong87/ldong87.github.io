@@ -10,21 +10,17 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2'
+          ruby-version: '3.2.8'
           bundler-cache: true
-
-      - name: Install Dependencies
-        run: |
-          bundle install
 
       - name: Build Jekyll Site
         run: |
