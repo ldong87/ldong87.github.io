@@ -52,6 +52,25 @@ When you are initially working on your website, it is very useful to be able to 
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
+## Using GitHub Actions for Deployment
+
+This repository is set up to use GitHub Actions for building and deploying the Jekyll site to GitHub Pages. This approach allows you to use newer versions of Jekyll and plugins that are not supported by the default GitHub Pages build process.
+
+The workflow is defined in `.github/workflows/jekyll-build-deploy.yml` and does the following:
+
+1. Triggers on pushes to the `master` branch
+2. Sets up Ruby and installs dependencies
+3. Builds the Jekyll site
+4. Deploys the built site to the `gh-pages` branch
+
+To use this workflow:
+
+1. Make sure your repository has GitHub Pages enabled in the repository settings, with the source set to the `gh-pages` branch.
+2. Push changes to the `master` branch, and GitHub Actions will automatically build and deploy your site.
+3. You can monitor the build and deployment process in the "Actions" tab of your repository.
+
+This approach resolves dependency conflicts that can occur with the `github-pages` gem and gives you more flexibility in choosing Jekyll versions and plugins.
+
 ## Using Docker
 
 Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
