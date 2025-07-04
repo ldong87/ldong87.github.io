@@ -19,3 +19,4 @@ I obtained Ph.D. in Mechanical Engineering advised by [Assad Oberai](https://vit
 - ACL Industry Track Program Committee (2023).
 - EMNLP Industry Track Program Committee (2022, 2023).
 - SIGIR eCom Program Committee (2022).
+- Reviewer for NAACL, ACL, EMNLP, SIGIR eCom
