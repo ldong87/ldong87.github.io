@@ -29,10 +29,13 @@
       {% endif %}
       {% if author.employer %}
         <li class="author__desktop">
-          <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
           {% if author.employer.url %}
-            <a href="{{ author.employer.url }}" target="_blank" rel="noopener">{{ author.employer.name }}</a>
+            <a href="{{ author.employer.url }}">
+              <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
+              {{ author.employer.name }}
+            </a>
           {% else %}
+            <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
             {{ author.employer.name }}
           {% endif %}
         </li>
