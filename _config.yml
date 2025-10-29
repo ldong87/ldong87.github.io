@@ -27,7 +27,9 @@ author:
   pronouns         : # "he/his"  
   bio              : "Senior Applied Scientist"
   location         : "Austin, TX"
-  employer         : '<a href="https://www.amazon.science/author/li-dong" target="_blank">Amazon</a>'
+  employer         :
+    name: "Amazon"
+    url: "https://www.amazon.science/author/li-dong"
   uri              : # URL
   email            : # "none@example.org" 
 
