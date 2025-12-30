@@ -16,7 +16,8 @@ Before I joined Amazon, I spent two years as a Data Scientist developing machine
 I obtained Ph.D. in Mechanical Engineering advised by [Assad Oberai](https://viterbi.usc.edu/directory/faculty/Oberai/Assad), and M.S. in Applied Mathematics advised by [Rongjie Lai](https://sites.google.com/view/rongjielai/) from [Rensselaer Polytechnic Institute](https://www.rpi.edu/).
 
 ### Professional Service
+- COLING Industry Track Program Committee (2025).
 - ACL Industry Track Program Committee (2023).
 - EMNLP Industry Track Program Committee (2022, 2023).
 - SIGIR eCom Program Committee (2022).
-- Reviewer for NAACL, ACL, EMNLP, SIGIR eCom
+- Reviewer for NeurIPS, NAACL, ACL, EMNLP, SIGIR eCom
