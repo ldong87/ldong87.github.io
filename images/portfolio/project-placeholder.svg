@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" viewBox="0 0 500 300" role="img" aria-labelledby="title desc">
+  <title id="title">Project placeholder</title>
+  <desc id="desc">A simple placeholder thumbnail for portfolio projects without a source image.</desc>
+  <rect width="500" height="300" fill="#eef2f3"/>
+  <rect x="28" y="28" width="444" height="244" rx="8" fill="#ffffff" stroke="#c8d4d8" stroke-width="2"/>
+  <path d="M78 209h344" stroke="#8aa1aa" stroke-width="8" stroke-linecap="round"/>
+  <path d="M78 179h244" stroke="#b7c6cb" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="142" cy="118" r="42" fill="#4f8da3"/>
+  <path d="M211 132h150M211 102h96" stroke="#3b5963" stroke-width="12" stroke-linecap="round"/>
+  <path d="M95 233h118" stroke="#4f8da3" stroke-width="10" stroke-linecap="round"/>
+</svg>

@@ -5,10 +5,21 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+{% assign portfolio_items = site.portfolio | sort: "sort_date" | reverse %}
+{% assign current_year = "" %}
+{% for post in portfolio_items %}
+  {% assign post_year = post.sort_date | date: "%Y" %}
+  {% if post_year != current_year %}
+    {% unless forloop.first %}
+</div>
+    {% endunless %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<h2 class="archive__subtitle" style="clear: both; border-bottom: 0; padding-bottom: 0; margin-bottom: 0.75em; font-size: 1.4em;">{{ post_year }}</h2>
+<div class="grid__wrapper" style="clear: both; display: flow-root; margin-bottom: 2em;">
+    {% assign current_year = post_year %}
+  {% endif %}
+  {% include archive-single.html type="grid" %}
+  {% if forloop.last %}
+</div>
+  {% endif %}
 {% endfor %}
-

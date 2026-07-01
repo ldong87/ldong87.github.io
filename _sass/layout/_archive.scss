@@ -28,6 +28,7 @@
 }
 
 .archive__subtitle {
+  clear: both;
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
@@ -111,6 +112,10 @@
 /*
    Grid view
    ========================================================================== */
+
+.grid__wrapper {
+  @include clearfix();
+}
 
 .grid__item {
   margin-bottom: 2em;
