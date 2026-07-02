@@ -2,7 +2,7 @@
 title: "Cellular Traction Reconstruction"
 excerpt: "Adjoint-based nonlinear inverse mechanics for recovering HUVEC surface tractions."
 collection: portfolio
-sort_date: 2017-08-28
+sort_date: 2020-08-31
 header:
   teaser: portfolio/cellular-traction.gif
 ---
@@ -20,5 +20,5 @@ The HUVEC experimental data came from Christopher Chen's group.
 Related publications:
 
 - Dong, L., & Oberai, A. A. (2017). [Recovery of cellular traction in three-dimensional nonlinear hyperelastic matrices](https://doi.org/10.1016/j.cma.2016.05.020). *Computer Methods in Applied Mechanics and Engineering, 314*, 296-313.
-- Song, D., Dong, L., Gupta, M., Li, L., Klaas, O., Loghin, A., Beall, M., Chen, C. S., & Oberai, A. A. (2020). [Recovery of tractions exerted by single cells in three-dimensional nonlinear matrices](https://doi.org/10.1115/1.4046974). *Journal of Biomechanical Engineering, 142*(8).
 - Yoon, C., Choi, C., Stapleton, S., Mirabella, T., Howes, C., Dong, L., King, J., Yang, J., Oberai, A. A., Eyckmans, J., & Chen, C. S. (2019). [Myosin IIA-mediated forces regulate multicellular integrity during vascular sprouting](https://doi.org/10.1091/mbc.E19-02-0076). *Molecular Biology of the Cell, 30*(16), 1974-1984.
+- Song, D., Dong, L., Gupta, M., Li, L., Klaas, O., Loghin, A., Beall, M., Chen, C. S., & Oberai, A. A. (2020). [Recovery of tractions exerted by single cells in three-dimensional nonlinear matrices](https://doi.org/10.1115/1.4046974). *Journal of Biomechanical Engineering, 142*(8).
